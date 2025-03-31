@@ -1,0 +1,24 @@
+ /* Estilo del contenedor */
+.contenedor {
+
+            background-color: lightblue; /* Color de fondo del contenedor */
+
+            padding: 20px; /* Espacio interior */
+
+            margin: 35px; /* Espacio exterior */
+
+
+        }
+
+
+.contenido {
+
+            background-color: coral; /* Color de fondo del contenido */
+
+            padding: 10px; /* Espacio interior del párrafo */
+
+            border: 2px solid blue;
+
+
+        }
+
